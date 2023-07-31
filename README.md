@@ -49,7 +49,3 @@ The sum of the two numbers is: 758
 ## Contribution
 
 Contributions to the project are welcome. If you find any issues or want to add new features, feel free to create a pull request or open an issue on the GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing you to modify and distribute the code as per the license terms.
